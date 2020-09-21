@@ -1,0 +1,4 @@
+# Project exclude paths
+/persistence/target/
+/service/target/
+/ui/target/

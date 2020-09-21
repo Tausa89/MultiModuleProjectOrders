@@ -1,0 +1,7 @@
+
+N
+java:S1068"1Remove this unused "dateFormatter" private field.(Ö³ˆ³8é’÷Î£.
+C
+java:S1170"!Make this final field static too.(€«˜–üÿÿÿÿ8İÄàÎ£.
+L
+java:S1948"/Make "dateFormatter" transient or serializable.(Ö³ˆ³8ì°áÎ£.

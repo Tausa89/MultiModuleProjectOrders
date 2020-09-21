@@ -1,0 +1,49 @@
+[{
+  "customer": {
+    "clientName": "MACK",
+    "clientSurname": "RAYNOR",
+    "age": 59,
+    "email": "fredia.marquardt@example.com"
+  },
+  "product": {
+    "productName": "ABSDFZXCAER",
+    "price": 5171,
+    "category": "C"
+  },
+  "quantity": 47,
+  "orderDate": {
+    "year": 2020,
+    "month": 5,
+    "day": 27
+  },
+  "realizationDate": {
+    "year": 2020,
+    "month": 5,
+    "day": 29
+  }
+},
+  {
+    "customer": {
+      "clientName": "LORINA",
+      "clientSurname": "JACOBSON",
+      "age": 109,
+      "email": "fredia.marquardt@example.com"
+    },
+    "product": {
+      "productName": "Such, Such Were the Joys",
+      "price": 9149,
+      "category": "C"
+    },
+    "quantity": 13,
+    "orderDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 27
+    },
+    "realizationDate": {
+      "year": 2020,
+      "month": 5,
+      "day": 29
+    }
+  }
+]

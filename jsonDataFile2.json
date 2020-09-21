@@ -1,0 +1,24 @@
+{
+  "customer": {
+    "clientName": "CASSIDY",
+    "clientSurname": "GOODWIN",
+    "age": 46,
+    "email": "drusilla.vonrueden@example.com"
+  },
+  "product": {
+    "productName": "ABSDFZXCAER",
+    "price": 1406,
+    "category": "C"
+  },
+  "quantity": 17,
+  "orderDate": {
+    "year": 2020,
+    "month": 1,
+    "day": 20
+  },
+  "realizationDate": {
+    "year": 2020,
+    "month": 4,
+    "day": 18
+  }
+}
